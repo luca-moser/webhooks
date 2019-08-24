@@ -1,3 +1,3 @@
-module github.com/go-playground/webhooks
+module github.com/luca-moser/webhooks
 
 go 1.12
